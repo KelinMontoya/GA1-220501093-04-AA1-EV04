@@ -2,8 +2,7 @@
 # Fundamentos de Python: Clases, Objetos y Encapsulación
 
 ## Autor
-Victor Montoya
-
+Kelin Montoya
 ---
 
 # Descripción del Proyecto
